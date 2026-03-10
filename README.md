@@ -8,7 +8,7 @@ In this lab I created a secure Amazon S3 bucket with encryption and restricted a
 - IAM
 
 ## Architecture
-(put diagram here)
+![Architecture](diagrams/architecture.png)
 
 ## Steps
 1. Created S3 bucket
